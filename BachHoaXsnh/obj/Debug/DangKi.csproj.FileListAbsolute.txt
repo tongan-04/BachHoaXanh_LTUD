@@ -1,0 +1,11 @@
+D:\BachHoaXsnh\BachHoaXsnh\bin\Debug\BachHoaXsnh.exe.config
+D:\BachHoaXsnh\BachHoaXsnh\bin\Debug\BachHoaXsnh.exe
+D:\BachHoaXsnh\BachHoaXsnh\bin\Debug\BachHoaXsnh.pdb
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\DangKi.csproj.AssemblyReference.cache
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\DangKi.csproj.SuggestedBindingRedirects.cache
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\BachHoaXsnh.Form1.resources
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\BachHoaXsnh.Properties.Resources.resources
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\DangKi.csproj.GenerateResource.cache
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\DangKi.csproj.CoreCompileInputs.cache
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\BachHoaXsnh.exe
+D:\BachHoaXsnh\BachHoaXsnh\obj\Debug\BachHoaXsnh.pdb
